@@ -1,6 +1,3 @@
 aaa
 ccc
-aaafds
-bbbfdasfasfadfasfas
-ccc
-fdasfasfasfasf
+bbb
