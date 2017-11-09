@@ -1,6 +1,3 @@
 bbb
-bbbbbccc
 bbb
-ccc
-ddd
-
+bbb

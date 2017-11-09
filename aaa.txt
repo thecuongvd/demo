@@ -1,7 +1,3 @@
 aaa
-ccc
-aaaddd
 aaa
-ccc
-ddd
-
+aaa
