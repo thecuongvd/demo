@@ -1,8 +1,3 @@
 aaa
-dev
-develop
-bbb
-dss
-ddd
-develop
-fff
+aaa
+aaa
